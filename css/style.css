@@ -1,0 +1,138 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: thistle;
+    text-align: center;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+.logo{
+    background-color: aqua;
+    width: 25%;
+    float: left;
+}
+.logo h1{
+    padding: 1.5rem 0rem;
+}
+.banner{
+    background: brown;
+    width: 75%;
+    float: right;
+}
+.banner h1{
+    padding: 1.5rem 0rem;
+}
+nav{
+  background: gray;
+}
+nav h1{
+  font-size: 2.5rem;
+  color: yellowgreen;
+  padding: 1.5rem;
+  text-align: center;
+}
+article{
+    background: teal;
+    height: 60rem;
+    overflow: hidden;
+}
+.left {
+    width: 35%;
+    background-color: tomato;
+    height: 60rem;
+    float: left;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.left_top{
+    height: 25rem;
+    background: green;
+
+}
+.left_middle{
+    height: 15rem;
+    background: gray;
+}
+.left_bottom{
+    height: 20rem;
+    background: powderblue;
+}
+.left_top h1{
+    padding: 6rem 0rem;
+}
+.left_middle h1{
+    padding: 6rem 0rem;
+}
+.left_bottom h1{
+    padding: 6rem 0rem;
+}
+.center{
+    width: 45%;
+    background: yellow;
+    height: 60rem;
+    float: left;
+}
+.center_top{
+    background: red;
+    height: 40rem;
+
+}
+.center_top h1{
+    font-size: 2rem;
+    text-align: center;
+    padding: 6rem 0rem;
+    color:white
+}
+.center_bottom{
+    background: royalblue;
+    height: 20rem;
+    text-align: center;
+    overflow: hidden;
+    
+    
+}
+.center_bottom h1{
+    padding: 6rem 0rem;
+}
+.bottom_left{
+    background-color: seagreen;
+    height: 20rem;
+    width: 60%;
+    float: left;
+}
+.bottom_right{
+    background: violet;
+    height: 20rem;
+    width: 40%;
+    float: right;
+}
+.right{
+    width: 20%;
+    background: palevioletred;
+    height: 460rem;
+    float: right;
+}
+.right h1{
+    font-size: 2rem;
+    text-align:center;
+    padding: 6rem 0rem;
+}
+footer{
+    background: purple;
+}
+footer h1{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem 0rem;
+}
+
